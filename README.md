@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,8&height=180&section=header&text=Hi,%20I%20am%20Fadil%20Asif&fontSize=40&fontAlignY=40" width="100%" alt="fadilasif Header" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=AI-ML+Student;Building+intelligent+systems+%26+ML+models;Exploring+Deep+Learning,+LLMs+%26+MLOps" alt="Typing SVG" />
-  </a>
+ <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=600&lines=AI%2FML+Student;Passionate+About+Machine+Learning+%26+Data+Science;Exploring+LLMs+%26+AI+Agents;Python+%7C+Linux+%7C+Open+Source;Learning%2C+Contributing+%26+Growing" alt="Typing SVG" />
+</a>
 </div>
 
 ---
